@@ -7,7 +7,10 @@ namespace SnakesAndLadders
     {
         public static void Main()
         {
+            while(true)
+            {
             DrawMethod.Draw();
+            }
         }
 
     }
