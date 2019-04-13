@@ -1,10 +1,14 @@
 using System;
 using SplashKitSDK;
 
-public class Program
+namespace SnakesAndLadders
 {
-    public static void Main()
+    public class Program
     {
+        public static void Main()
+        {
+            DrawMethod.Draw();
+        }
 
     }
 }

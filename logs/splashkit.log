@@ -1,0 +1,2 @@
+(13/25/2019) WARNING -> Unable to locate file for Player Character (/Users/suriya/Code/snakes-ladder/Resources/images/donny.png) [/Users/acain/Documents/Code/splashkit/coresdk/src/coresdk/images.cpp:98]
+(13/25/2019) WARNING -> Error trying to draw bitmap: passed in bmp is an invalid bitmap pointer. [/Users/acain/Documents/Code/splashkit/coresdk/src/coresdk/images.cpp:226]
