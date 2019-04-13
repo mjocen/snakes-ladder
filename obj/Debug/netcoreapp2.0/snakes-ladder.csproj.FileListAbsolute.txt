@@ -1,0 +1,11 @@
+/Users/suriya/Code/snakes-ladder/bin/Debug/netcoreapp2.0/snakes-ladder.deps.json
+/Users/suriya/Code/snakes-ladder/bin/Debug/netcoreapp2.0/snakes-ladder.runtimeconfig.json
+/Users/suriya/Code/snakes-ladder/bin/Debug/netcoreapp2.0/snakes-ladder.runtimeconfig.dev.json
+/Users/suriya/Code/snakes-ladder/bin/Debug/netcoreapp2.0/snakes-ladder.dll
+/Users/suriya/Code/snakes-ladder/bin/Debug/netcoreapp2.0/snakes-ladder.pdb
+/Users/suriya/Code/snakes-ladder/obj/Debug/netcoreapp2.0/snakes-ladder.csprojAssemblyReference.cache
+/Users/suriya/Code/snakes-ladder/obj/Debug/netcoreapp2.0/snakes-ladder.csproj.CoreCompileInputs.cache
+/Users/suriya/Code/snakes-ladder/obj/Debug/netcoreapp2.0/snakes-ladder.AssemblyInfoInputs.cache
+/Users/suriya/Code/snakes-ladder/obj/Debug/netcoreapp2.0/snakes-ladder.AssemblyInfo.cs
+/Users/suriya/Code/snakes-ladder/obj/Debug/netcoreapp2.0/snakes-ladder.dll
+/Users/suriya/Code/snakes-ladder/obj/Debug/netcoreapp2.0/snakes-ladder.pdb
