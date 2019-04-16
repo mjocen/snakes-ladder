@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+// using SplashKitSDK;
 
-namespace ConsoleApp9
+namespace SnakesAndLadders
 {
-    class Player
+    public class Player
     {
         const int PLAYER_MOVE = 80;
         const int BOARD_MAX_EDGE = 800;
@@ -16,7 +17,8 @@ namespace ConsoleApp9
         }
 
         private int _CoorX;
-        public int Coorx
+        public int CoorX
+
         {
             get { return _CoorX; }
         }
@@ -27,11 +29,23 @@ namespace ConsoleApp9
             get { return _CoorY; }
         }
 
+        // private Bitmap _Character;
+        // public Bitmap Character
+        // {
+        //     get { return _Character; }
+        // }
+
         public Player(string name, int x, int y)
         {
-            _Player_name = "player1";
-            _CoorX = 40;
-            _CoorY = 760;
+            _Player_name = name;    //"player1";
+            _CoorX = x;             //40
+            _CoorY = y;             //760;
+            // _Character = character;
+        }
+
+        public int Dice()
+        {
+            return new Random().Next(7);
         }
 
         public void Move()
